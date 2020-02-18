@@ -4,4 +4,4 @@ COMP3231 Operating Systems
 Make symlink to this repo from ~/cs3231 
 
 "cd ~"  
-"ls -n `<`PATH TO THIS REPO`>` cs3231"
+"ls -n &lt;PATH TO THIS REPO&gt; cs3231"
