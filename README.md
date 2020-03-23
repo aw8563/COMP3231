@@ -7,7 +7,7 @@ Make symlink to this repo from ~/cs3231
 "ln -s &lt;PATH TO THIS REPO&gt; cs3231"
 
 
-"git submodule update --init --recursive" to pull submodule repos
+"git submodule update --init --recursive" to pull submodule repos   
 "git submodule add &lt;URL.git&gt;" to add new repo  
 
 
