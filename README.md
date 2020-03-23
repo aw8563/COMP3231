@@ -8,7 +8,7 @@ Make symlink to this repo from ~/cs3231
 
 
 "git submodule update --init --recursive" to pull submodule repos
-
+"git submodule add &lt;URL.git&gt;" to add new repo  
 
 
 "sudo ln -s /usr/lib/x86_64-linux-gnu/libmpfr.so.6 /usr/lib/x86_64-linux-gnu/libmpfr.so.4" may need to symlink this for bmake to work  

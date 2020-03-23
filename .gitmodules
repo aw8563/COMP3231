@@ -7,3 +7,6 @@
 [submodule "asst1-src"]
 	path = asst1-src
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP3231/20T1/z5161179-asst1.git
+[submodule "asst2-src"]
+	path = asst2-src
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP3231/20T1/grp269-asst2.git
